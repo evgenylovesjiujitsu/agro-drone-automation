@@ -18,7 +18,7 @@ while True:
   
   move(North)
   
-while True:
-  if till():
-    move(North)
-  move(East)
+# while True:
+#   if till():
+#     move(North)
+#   move(East)
